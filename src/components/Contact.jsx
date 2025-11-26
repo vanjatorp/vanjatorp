@@ -181,7 +181,7 @@ const Contact = () => {
         </form>
         <div className="flex items-center justify-center mt-4">
           <div
-            onClick={() => window.open("https://github.com/VTwin90/", '_blank')}
+            onClick={() => window.open("https://github.com/vanjatorp/", '_blank')}
             className="bg-night sm:w-11 sm:h-11 w-10 h-10 rounded-full flex justify-center items-center cursor-pointer sm:opacity-[0.9] opacity-[0.8] mr-4"
           >
             <img
