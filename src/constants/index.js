@@ -169,8 +169,8 @@ import {
         },
       ],
       image: portfolio,
-      repo: 'https://github.com/VTwin90/Milestone-1-Portfolio',
-      demo: 'https://vtwin90.github.io/Milestone-1-Portfolio/',
+      repo: 'https://github.com/vanjatorp/Milestone-1-Portfolio',
+      demo: 'https://vanjatorp.github.io/Milestone-1-Portfolio/',
     },
     {
       id: 'project-2',
@@ -192,8 +192,8 @@ import {
         },
       ],
       image: unperfectdate,
-      repo: 'https://github.com/VTwin90/UN-PERFECT-DATE',
-      demo: 'https://vtwin90.github.io/UN-PERFECT-DATE/',
+      repo: 'https://github.com/vanjatorp/UN-PERFECT-DATE',
+      demo: 'https://vanjatorp.github.io/UN-PERFECT-DATE/',
     },
     {
       id: 'project-3',
@@ -218,7 +218,7 @@ import {
         },
       ],
       image: vgames,
-      repo: 'https://github.com/VTwin90/VGAMES',
+      repo: 'https://github.com/vanjatorp/VGAMES',
       demo: 'https://vgames-0i9m.onrender.com/',
     },
     {
@@ -244,7 +244,7 @@ import {
         },
       ],
       image: xelor,
-      repo: 'https://github.com/VTwin90/xelor',
+      repo: 'https://github.com/vanjatorp/xelor',
       demo: 'https://xelor-watches.onrender.com/',
     },
     {
@@ -288,7 +288,7 @@ import {
         },
       ],
       image: alexa,
-      repo: 'https://github.com/VTwin90/alexa',
+      repo: 'https://github.com/vanjatorp/alexa',
       demo: 'https://alexa-author.onrender.com/',
     },
   ];
