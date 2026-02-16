@@ -135,7 +135,7 @@ I contributed to the [Zero to Mastery Animation-Nation repo](https://github.com/
 
 Here are some of the badges I earned through creative contributions and community collaboration:
 
-[![An image of @vanjatorp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanjatorp)](https://holopin.io/@vanjatorp)
+[![An image of vanja torp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vtwin90)](https://holopin.io/@vtwin90)
 
 
 ## 🤓 Hackathons
@@ -197,3 +197,4 @@ Collaborative builds from fast-paced sprints — blending creativity, teamwork, 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
