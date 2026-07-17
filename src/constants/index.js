@@ -124,7 +124,7 @@ import {
   
   const experiences = [
     {
-      title: 'Fullstack Developer',
+      title: 'Creative Technologist & Front‑End Developer',
       company_name: 'V Projects',
       icon: logo,
       iconBg: '#333333',
@@ -156,8 +156,8 @@ import {
   const projects = [
     {
       id: 'project-1',
-      name: 'Portfolio',
-      description: 'A personal portfolio website with just the use of HTML and CSS',
+      name: 'Twinsi Christmas Calendar',
+      description: 'An advent calendar calendar with gifts',
       tags: [
         {
           name: 'html',
@@ -167,33 +167,36 @@ import {
           name: 'css',
           color: 'green-text-gradient',
         },
-      ],
-      image: portfolio,
-      repo: 'https://github.com/vanjatorp/Milestone-1-Portfolio',
-      demo: 'https://vanjatorp.github.io/Milestone-1-Portfolio/',
-    },
-    {
-      id: 'project-2',
-      name: '(Un)perfect Date',
-      description:
-        'A visual novel game where your decisions have an impact',
-      tags: [
-        {
-          name: 'html',
-          color: 'blue-text-gradient',
-        },
-        {
-          name: 'css/bootstrap',
-          color: 'green-text-gradient',
-        },
         {
           name: 'javascript',
           color: 'pink-text-gradient',
         },
       ],
-      image: unperfectdate,
-      repo: 'https://github.com/vanjatorp/UN-PERFECT-DATE',
-      demo: 'https://vanjatorp.github.io/UN-PERFECT-DATE/',
+      image: twinsichristmas,
+      repo: 'https://github.com/vanjatorp/twinsi-christmas-2025',
+      demo: 'https://vanjatorp.github.io/twinsi-christmas-2025/',
+    },
+    {
+      id: 'project-2',
+      name: 'BlackWood Mystery',
+      description:
+        'A visual novel game demo where your decisions have an impact',
+      tags: [
+        {
+          name: 'react/typescript',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'game development',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'tailwind',
+          color: 'pink-text-gradient',
+        },
+      ],
+      image: blackwoodmystery,
+      demo: 'https://theinnerworldstudio.itch.io/the-blackwood-mystery-demo',
     },
     {
       id: 'project-3',
