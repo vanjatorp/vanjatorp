@@ -39,7 +39,7 @@ const About = () => {
         I'm a versatile individual on a transformative journey into the dynamic world of technology 
         with a passion for tech and love for design. With degrees from Scotland, 
         I've cultivated a love for growth and thrive beyond comfort zones. 
-        This foundation, although not tech-specific, fuels my unique problem-solving and innovation.
+        This foundation fuels my unique problem-solving and innovation.
         Armed with a Software Development Diploma, 
         I master coding intricacies and infuse creativity into projects across frontend, backend, UX/UI, and project management. 
         My blend of expertise and collaborative mindset enriches team dynamics and fosters innovation.
