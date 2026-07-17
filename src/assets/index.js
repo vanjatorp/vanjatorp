@@ -51,6 +51,8 @@ import vgames from './projects/vgames.png';
 import xelor from './projects/xelor.png';
 import womxn from './projects/womxn.png';
 import alexa from './projects/alexa.png';
+import twinsichristmas from './projects/twinsichristmas.png';
+import blackwoodmystery from './projects/blackwoodmystery.png';
 
 export {
   bwmap,
@@ -96,6 +98,7 @@ export {
   xelor,
   womxn,
   alexa,
+  twinsichristmas,
   infinity,
   codeinstitute,
   zerotomastery,
