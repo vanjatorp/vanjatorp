@@ -158,7 +158,7 @@ import {
   const projects = [
     {
       id: 'project-1',
-      name: 'Twinsi Christmas Calendar',
+      name: 'Twinsi Christmas',
       description: 'An advent calendar calendar with gifts',
       tags: [
         {
@@ -180,7 +180,7 @@ import {
     },
     {
       id: 'project-2',
-      name: 'BlackWood Mystery',
+      name: 'Black Wood',
       description:
         'A visual novel game demo where your decisions have an impact',
       tags: [
@@ -198,6 +198,7 @@ import {
         },
       ],
       image: blackwoodmystery,
+      repo: 'https://theinnerworldstudio.itch.io/the-blackwood-mystery-demo',
       demo: 'https://theinnerworldstudio.itch.io/the-blackwood-mystery-demo',
     },
     {
