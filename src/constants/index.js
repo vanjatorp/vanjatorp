@@ -17,6 +17,8 @@ import {
     mongodb,
     flask,
     adobe,
+    blackwoodmystery,
+    twinsichristmas,
     portfolio,
     unperfectdate,
     vgames,
@@ -46,7 +48,7 @@ import {
   
   const services = [
     {
-      title: 'Frontend Developer',
+      title: 'Creative Technologist & Front‑End Developer',
       icon: frontend,
     },
     {
