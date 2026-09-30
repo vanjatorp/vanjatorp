@@ -159,7 +159,7 @@ import {
     {
       id: 'project-1',
       name: 'Twinsi Christmas',
-      description: 'An advent calendar calendar with gifts',
+      description: 'An advent calendar with gifts',
       tags: [
         {
           name: 'html',
