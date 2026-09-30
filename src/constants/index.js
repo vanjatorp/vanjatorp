@@ -175,8 +175,8 @@ import {
         },
       ],
       image: twinsichristmas,
-      repo: 'https://github.com/vanjatorp/twinsi-christmas-2025',
-      demo: 'https://vanjatorp.github.io/twinsi-christmas-2025/',
+      repo: 'https://github.com/vanjatorp/twinsi-christmas',
+      demo: 'https://vanjatorp.github.io/twinsi-christmas/',
     },
     {
       id: 'project-2',
