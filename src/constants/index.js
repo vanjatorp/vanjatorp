@@ -281,7 +281,7 @@ import {
       description: 'A business website for an author',
       tags: [
         {
-          name: 'react',
+          name: 'typescript',
           color: 'blue-text-gradient',
         },
         {
