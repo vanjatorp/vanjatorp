@@ -295,7 +295,7 @@ import {
       ],
       image: alexa,
       repo: 'https://github.com/vanjatorp/alexa',
-      demo: 'https://alexa-author.onrender.com/',
+      demo: 'https://www.alexabooks.no/',
     },
   ];
   
